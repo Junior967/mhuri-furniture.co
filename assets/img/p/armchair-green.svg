@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="rgba(42,28,20,0.07)" stroke-width="1"/></pattern></defs>
+  <rect width="400" height="400" fill="#EFE6D5"/><rect width="400" height="400" fill="url(#g)"/>
+  <style>.i{fill:none;stroke:#2A1C14;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .d line{stroke:#7A3E22;stroke-width:1}.d text,.t{font-family:'Courier New',monospace;font-size:11px;fill:#7A3E22;letter-spacing:.06em}
+  .h{font-family:Georgia,serif;font-size:15px;fill:#2A1C14}</style>
+  <g class="i"><rect x="138" y="128" width="124" height="90" rx="2" fill="rgba(122,62,34,0.08)"/><rect x="138" y="218" width="124" height="36" rx="2" fill="rgba(122,62,34,0.08)"/><path d="M118 178 L138 178 L138 262 L118 262 Z" /><path d="M262 178 L282 178 L282 262 L262 262 Z" /><line x1="112" y1="178" x2="144" y2="178" stroke-width="3"/><line x1="256" y1="178" x2="288" y2="178" stroke-width="3"/><rect x="124" y="254" width="152" height="10" rx="2" /><path d="M126 264 L134 264 L131 318 L129 318 Z" /><path d="M266 264 L274 264 L271 318 L269 318 Z" /><line x1="24" y1="318" x2="376" y2="318" stroke-width="1.2"/></g>
+  <g class="d"><line x1="112" y1="104" x2="288" y2="104" /><line x1="112" y1="98" x2="112" y2="110" /><line x1="288" y1="98" x2="288" y2="110" />
+    <text x="200" y="96" text-anchor="middle">760</text></g><g class="d"><line x1="306" y1="128" x2="306" y2="318" /><line x1="300" y1="128" x2="312" y2="128" /><line x1="300" y1="318" x2="312" y2="318" />
+    <text transform="translate(320 223) rotate(-90)" text-anchor="middle">820</text></g>
+  <g transform="translate(24 342)"><rect width="352" height="36" fill="none" stroke="#2A1C14" stroke-width="1"/>
+  <line x1="226" y1="0" x2="226" y2="36" stroke="#2A1C14" stroke-width="1"/>
+  <text class="h" x="12" y="23">Armchair</text><text class="t" x="236" y="15">MHURI · No. 02</text><text class="t" x="236" y="29">SCALE 1:20 · MM</text></g>
+</svg>

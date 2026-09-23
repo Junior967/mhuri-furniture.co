@@ -5,6 +5,8 @@ A demonstration site for a Harare furniture restorer and maker. *Mhuri* is Shona
 - **The Restoration hero:** as you scroll, a sanding line sweeps down the page and the worn sideboard becomes the restored one.
 - **Sand it yourself:** drag across a worn finish to reveal the oiled mukwa underneath.
 - **Three rules** that answer what people fear about furniture makers: going quiet after a deposit, wood that cracks, and staples.
+- **The shop:** 12 pieces in four rooms, drawn as maker's plans, with a cart that sends the whole order to WhatsApp in one tap.
+- **Photo backgrounds:** the page sits inside the workshop, with one photo layer that changes per section.
 - Every call to action opens **WhatsApp (+27 60 462 4900)** with a message ready. Nothing is stored on the site.
 
 Plain HTML, CSS and JavaScript. No build step, no third-party requests (the fonts are self-hosted).

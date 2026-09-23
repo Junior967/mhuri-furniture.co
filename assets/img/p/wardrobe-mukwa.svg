@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="rgba(42,28,20,0.07)" stroke-width="1"/></pattern></defs>
+  <rect width="400" height="400" fill="#EFE6D5"/><rect width="400" height="400" fill="url(#g)"/>
+  <style>.i{fill:none;stroke:#2A1C14;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .d line{stroke:#7A3E22;stroke-width:1}.d text,.t{font-family:'Courier New',monospace;font-size:11px;fill:#7A3E22;letter-spacing:.06em}
+  .h{font-family:Georgia,serif;font-size:15px;fill:#2A1C14}</style>
+  <g class="i"><rect x="116" y="58" width="168" height="10" rx="2" /><rect x="122" y="68" width="156" height="236" rx="2" fill="rgba(122,62,34,0.08)"/><rect x="128" y="74" width="70" height="222" rx="2" /><rect x="202" y="74" width="70" height="222" rx="2" /><line x1="190" y1="176" x2="190" y2="196" stroke-width="3"/><line x1="210" y1="176" x2="210" y2="196" stroke-width="3"/><rect x="118" y="304" width="164" height="8" rx="2" /><path d="M124 312 L132 312 L131 318 L125 318 Z" /><path d="M268 312 L276 312 L275 318 L269 318 Z" /><line x1="24" y1="318" x2="376" y2="318" stroke-width="1.2"/></g>
+  <g class="d"><line x1="116" y1="44" x2="284" y2="44" /><line x1="116" y1="38" x2="116" y2="50" /><line x1="284" y1="38" x2="284" y2="50" />
+    <text x="200" y="36" text-anchor="middle">1000</text></g><g class="d"><line x1="302" y1="58" x2="302" y2="318" /><line x1="296" y1="58" x2="308" y2="58" /><line x1="296" y1="318" x2="308" y2="318" />
+    <text transform="translate(316 188) rotate(-90)" text-anchor="middle">2000</text></g>
+  <g transform="translate(24 342)"><rect width="352" height="36" fill="none" stroke="#2A1C14" stroke-width="1"/>
+  <line x1="226" y1="0" x2="226" y2="36" stroke="#2A1C14" stroke-width="1"/>
+  <text class="h" x="12" y="23">Two-door wardrobe</text><text class="t" x="236" y="15">MHURI · No. 10</text><text class="t" x="236" y="29">SCALE 1:20 · MM</text></g>
+</svg>

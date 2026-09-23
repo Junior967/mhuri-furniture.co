@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="rgba(42,28,20,0.07)" stroke-width="1"/></pattern></defs>
+  <rect width="400" height="400" fill="#EFE6D5"/><rect width="400" height="400" fill="url(#g)"/>
+  <style>.i{fill:none;stroke:#2A1C14;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .d line{stroke:#7A3E22;stroke-width:1}.d text,.t{font-family:'Courier New',monospace;font-size:11px;fill:#7A3E22;letter-spacing:.06em}
+  .h{font-family:Georgia,serif;font-size:15px;fill:#2A1C14}</style>
+  <g class="i"><rect x="62" y="214" width="276" height="14" rx="2" fill="rgba(122,62,34,0.08)"/><rect x="74" y="228" width="252" height="8" rx="2" /><path d="M80 236 L90 236 L88 318 L82 318 Z" /><path d="M310 236 L320 236 L318 318 L312 318 Z" /><rect x="90" y="286" width="220" height="6" rx="2" /><line x1="110" y1="286" x2="110" y2="292" /><line x1="140" y1="286" x2="140" y2="292" /><line x1="170" y1="286" x2="170" y2="292" /><line x1="200" y1="286" x2="200" y2="292" /><line x1="230" y1="286" x2="230" y2="292" /><line x1="260" y1="286" x2="260" y2="292" /><line x1="290" y1="286" x2="290" y2="292" /><line x1="24" y1="318" x2="376" y2="318" stroke-width="1.2"/></g>
+  <g class="d"><line x1="62" y1="194" x2="338" y2="194" /><line x1="62" y1="188" x2="62" y2="200" /><line x1="338" y1="188" x2="338" y2="200" />
+    <text x="200" y="186" text-anchor="middle">1200</text></g><g class="d"><line x1="356" y1="214" x2="356" y2="318" /><line x1="350" y1="214" x2="362" y2="214" /><line x1="350" y1="318" x2="362" y2="318" />
+    <text transform="translate(370 266) rotate(-90)" text-anchor="middle">450</text></g>
+  <g transform="translate(24 342)"><rect width="352" height="36" fill="none" stroke="#2A1C14" stroke-width="1"/>
+  <line x1="226" y1="0" x2="226" y2="36" stroke="#2A1C14" stroke-width="1"/>
+  <text class="h" x="12" y="23">Coffee table</text><text class="t" x="236" y="15">MHURI · No. 04</text><text class="t" x="236" y="29">SCALE 1:20 · MM</text></g>
+</svg>

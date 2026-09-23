@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="rgba(42,28,20,0.07)" stroke-width="1"/></pattern></defs>
+  <rect width="400" height="400" fill="#EFE6D5"/><rect width="400" height="400" fill="url(#g)"/>
+  <style>.i{fill:none;stroke:#2A1C14;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .d line{stroke:#7A3E22;stroke-width:1}.d text,.t{font-family:'Courier New',monospace;font-size:11px;fill:#7A3E22;letter-spacing:.06em}
+  .h{font-family:Georgia,serif;font-size:15px;fill:#2A1C14}</style>
+  <g class="i"><rect x="118" y="196" width="164" height="12" rx="2" fill="rgba(122,62,34,0.08)"/><path d="M190 208 L210 208 L214 300 L186 300 Z" /><rect x="160" y="300" width="80" height="12" rx="2" /><line x1="48" y1="120" x2="48" y2="318" /><line x1="96" y1="206" x2="96" y2="318" /><rect x="44" y="206" width="58" height="10" rx="2" /><line x1="48" y1="150" x2="96" y2="150" /><line x1="48" y1="174" x2="96" y2="174" /><line x1="96" y1="206" x2="96" y2="216" /><line x1="352" y1="120" x2="352" y2="318" /><line x1="304" y1="206" x2="304" y2="318" /><rect x="298" y="206" width="58" height="10" rx="2" /><line x1="304" y1="150" x2="352" y2="150" /><line x1="304" y1="174" x2="352" y2="174" /><line x1="24" y1="318" x2="376" y2="318" stroke-width="1.2"/></g>
+  <g class="d"><line x1="118" y1="176" x2="282" y2="176" /><line x1="118" y1="170" x2="118" y2="182" /><line x1="282" y1="170" x2="282" y2="182" />
+    <text x="200" y="168" text-anchor="middle">1000 Ø</text></g><g class="d"><line x1="378" y1="196" x2="378" y2="318" /><line x1="372" y1="196" x2="384" y2="196" /><line x1="372" y1="318" x2="384" y2="318" />
+    <text transform="translate(392 257) rotate(-90)" text-anchor="middle">750</text></g>
+  <g transform="translate(24 342)"><rect width="352" height="36" fill="none" stroke="#2A1C14" stroke-width="1"/>
+  <line x1="226" y1="0" x2="226" y2="36" stroke="#2A1C14" stroke-width="1"/>
+  <text class="h" x="12" y="23">Round table and two chairs</text><text class="t" x="236" y="15">MHURI · No. 08</text><text class="t" x="236" y="29">SCALE 1:20 · MM</text></g>
+</svg>

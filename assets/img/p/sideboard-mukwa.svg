@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="rgba(42,28,20,0.07)" stroke-width="1"/></pattern></defs>
+  <rect width="400" height="400" fill="#EFE6D5"/><rect width="400" height="400" fill="url(#g)"/>
+  <style>.i{fill:none;stroke:#2A1C14;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .d line{stroke:#7A3E22;stroke-width:1}.d text,.t{font-family:'Courier New',monospace;font-size:11px;fill:#7A3E22;letter-spacing:.06em}
+  .h{font-family:Georgia,serif;font-size:15px;fill:#2A1C14}</style>
+  <g class="i"><rect x="52" y="150" width="296" height="128" rx="2" fill="rgba(122,62,34,0.08)"/><rect x="46" y="142" width="308" height="10" rx="2" /><rect x="58" y="158" width="62" height="112" rx="2" /><rect x="132" y="158" width="62" height="112" rx="2" /><rect x="206" y="158" width="62" height="112" rx="2" /><rect x="280" y="158" width="62" height="112" rx="2" /><circle cx="114" cy="214" r="2.6" fill="#2A1C14"/><circle cx="138" cy="214" r="2.6" fill="#2A1C14"/><circle cx="262" cy="214" r="2.6" fill="#2A1C14"/><circle cx="286" cy="214" r="2.6" fill="#2A1C14"/><path d="M62 278 L72 278 L68 318 L66 318 Z" /><path d="M328 278 L338 278 L334 318 L332 318 Z" /><line x1="24" y1="318" x2="376" y2="318" stroke-width="1.2"/></g>
+  <g class="d"><line x1="46" y1="122" x2="354" y2="122" /><line x1="46" y1="116" x2="46" y2="128" /><line x1="354" y1="116" x2="354" y2="128" />
+    <text x="200" y="114" text-anchor="middle">1600</text></g><g class="d"><line x1="370" y1="142" x2="370" y2="318" /><line x1="364" y1="142" x2="376" y2="142" /><line x1="364" y1="318" x2="376" y2="318" />
+    <text transform="translate(384 230) rotate(-90)" text-anchor="middle">820</text></g>
+  <g transform="translate(24 342)"><rect width="352" height="36" fill="none" stroke="#2A1C14" stroke-width="1"/>
+  <line x1="226" y1="0" x2="226" y2="36" stroke="#2A1C14" stroke-width="1"/>
+  <text class="h" x="12" y="23">Sideboard</text><text class="t" x="236" y="15">MHURI · No. 07</text><text class="t" x="236" y="29">SCALE 1:20 · MM</text></g>
+</svg>
